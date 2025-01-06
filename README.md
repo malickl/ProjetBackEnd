@@ -74,8 +74,7 @@ bash
 
 Copier le code
 
-`git clone https://github.com/VOTRE_UTILISATEUR/NOM_DU_REPO.git
-cd NOM_DU_REPO`
+`git clone https://github.com/malickl/ProjetBackEnd.git`
 
 *(Remplacez `VOTRE_UTILISATEUR` et `NOM_DU_REPO` par les valeurs réelles.)*
 
