@@ -1,0 +1,15 @@
+# Exclure les environnements virtuels
+.venv/
+env/
+
+# Exclure les fichiers de cache Python
+__pycache__/
+*.py[cod]
+
+# Exclure les fichiers générés par les IDE
+*.idea/
+*.vscode/
+
+# Exclure les fichiers spécifiques au système d'exploitation
+.DS_Store
+Thumbs.db
