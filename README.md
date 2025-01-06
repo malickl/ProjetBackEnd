@@ -65,5 +65,4 @@ Le projet comprend **plusieurs fichiers** principaux :
 
 ### 5.1 Cloner le dépôt Git
 ```bash
-git clone https://github.com/VOTRE_UTILISATEUR/NOM_DU_REPO.git
-cd NOM_DU_REPO
+git clone https://github.com/malickl/ProjetBackEnd.git
