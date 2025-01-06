@@ -76,7 +76,6 @@ Copier le code
 
 `git clone https://github.com/malickl/ProjetBackEnd.git`
 
-*(Remplacez `VOTRE_UTILISATEUR` et `NOM_DU_REPO` par les valeurs réelles.)*
 
 ### **5.2 Installer les dépendances**
 
